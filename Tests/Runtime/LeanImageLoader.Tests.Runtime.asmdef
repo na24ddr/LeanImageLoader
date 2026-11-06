@@ -1,0 +1,23 @@
+{
+    "name": "LeanImageLoader.Tests.Runtime",
+    "rootNamespace": "LeanImageLoader.Tests",
+    "references": [
+        "LeanImageLoader",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "WebGL"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

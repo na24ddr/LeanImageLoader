@@ -1,0 +1,25 @@
+{
+  "name": "com.na24ddr.lean-image-loader",
+  "version": "1.0.0",
+  "displayName": "Lean Image Loader",
+  "description": "Loads many images (thumbnails, jackets, banners) into downscaled textures quickly while keeping peak memory flat. Decodes on a bounded set of worker threads and downscales straight from native memory, so no full-size managed copy is ever allocated.",
+  "unity": "2023.1",
+  "license": "MIT",
+  "keywords": [
+    "image",
+    "texture",
+    "thumbnail",
+    "downscale",
+    "memory",
+    "loader",
+    "png",
+    "jpeg"
+  ],
+  "author": {
+    "name": "na24ddr",
+    "url": "https://github.com/na24ddr"
+  },
+  "documentationUrl": "https://github.com/na24ddr/LeanImageLoader#readme",
+  "changelogUrl": "https://github.com/na24ddr/LeanImageLoader/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/na24ddr/LeanImageLoader/blob/main/LICENSE.md"
+}
